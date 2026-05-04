@@ -2,6 +2,9 @@
 
 A collection of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) custom skills and agent definitions that enforce disciplined, worker-routed AI-assisted development workflows.
 
+_If you like what I do, consider supporting my work via donation_
+[![](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/romanliutikov)
+
 ## What's Inside
 
 ### Skills (`skills/`)
